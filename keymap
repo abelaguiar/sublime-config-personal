@@ -1,0 +1,9 @@
+[
+	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": true } },
+    { "keys": ["ctrl+r"], "command": "reindent"},
+    { "keys": ["ctrl+w"], "command": "find_use"},
+    { "keys": ["ctrl+e"], "command": "insert_php_constructor_property"},
+    { "keys": ["ctrl+u"], "command": "refresh_folder_list" },
+    { "keys": ["ctrl+shift+u"], "command": "phpunit_run_all_tests" },
+]
