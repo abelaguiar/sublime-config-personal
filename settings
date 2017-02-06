@@ -30,4 +30,5 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
+	"translate_tabs_to_spaces": true
 }
