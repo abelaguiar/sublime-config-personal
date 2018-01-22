@@ -1,5 +1,5 @@
 [
-	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
     { "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": true } },
     { "keys": ["ctrl+r"], "command": "reindent"},
     { "keys": ["ctrl+w"], "command": "find_use"},
